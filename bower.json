@@ -1,7 +1,7 @@
 {
   "name": "canvasResize",
   "main": "canvasResize.js",
-  "version": "1.2.4a",
+  "version": "1.2.7",
   "homepage": "https://github.com/robertdmunn/canvasResize",
   "authors": [
     "Goker Cebeci"
