@@ -55,9 +55,9 @@ to work which is also under the [MPL License](http://www.nihilogic.dk/licenses/m
 
 Developer
 ---------
-[goker](http://gokercebeci.com/ "goker")
+[Goker Cebeci](http://gokercebeci.com/ "goker")
 
-Grunt Contributions by Robert Munn robert.d.munn@gmail.com
+Package re-org, Bower, Grunt contributions by Robert Munn robert.d.munn@gmail.com
 
 **Dependencies**
 
