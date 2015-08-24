@@ -1,6 +1,6 @@
 {
   "name": "canvasResize",
-  "version": "1.2.4",
+  "version": "1.2.4a",
   "description": "resizing images on web client",
   "main": "/dist/canvasResize.min.js",
   "directories": {
