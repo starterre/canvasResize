@@ -55,4 +55,4 @@ to work which is also under the [MPL License](http://www.nihilogic.dk/licenses/m
 
 Developer
 ---------
-[goker](http://gokercebeci.com/ "goker")
+[Goker Cebeci](http://gokercebeci.com/ "goker")
