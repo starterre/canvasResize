@@ -1,5 +1,5 @@
 {
-  "name": "canvasResize",
+  "name": "st-canvasresize",
   "main": "src/canvasResize.js",
   "version": "1.2.7",
   "homepage": "https://github.com/starterre/canvasResize",
