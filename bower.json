@@ -1,7 +1,7 @@
 {
   "name": "st-canvasresize",
   "main": "src/canvasResize.js",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "homepage": "https://github.com/starterre/canvasResize",
   "authors": [
     "Goker Cebeci"
