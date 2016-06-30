@@ -252,7 +252,9 @@
                 var dataURL = e.target.result;
                 var byteString = atob(dataURL.split(',')[1]);
                 var binary = new BinaryFile(byteString, 0, byteString.length);
-                var exif = EXIF.readFromBinaryFile(binary);
+                // var exif = EXIF.readFromBinaryFile(binary);
+                var exif = [];
+                exif['Orientation'] = 0;
 
                 var img = new Image();
                 img.onload = function(e) {
